@@ -1,0 +1,15 @@
+C:\Users\х0з9ин\Desktop\Example\Examole001\bin\Debug\net6.0\Examole001.exe
+C:\Users\х0з9ин\Desktop\Example\Examole001\bin\Debug\net6.0\Examole001.deps.json
+C:\Users\х0з9ин\Desktop\Example\Examole001\bin\Debug\net6.0\Examole001.runtimeconfig.json
+C:\Users\х0з9ин\Desktop\Example\Examole001\bin\Debug\net6.0\Examole001.dll
+C:\Users\х0з9ин\Desktop\Example\Examole001\bin\Debug\net6.0\Examole001.pdb
+C:\Users\х0з9ин\Desktop\Example\Examole001\obj\Debug\net6.0\Examole001.csproj.AssemblyReference.cache
+C:\Users\х0з9ин\Desktop\Example\Examole001\obj\Debug\net6.0\Examole001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\х0з9ин\Desktop\Example\Examole001\obj\Debug\net6.0\Examole001.AssemblyInfoInputs.cache
+C:\Users\х0з9ин\Desktop\Example\Examole001\obj\Debug\net6.0\Examole001.AssemblyInfo.cs
+C:\Users\х0з9ин\Desktop\Example\Examole001\obj\Debug\net6.0\Examole001.csproj.CoreCompileInputs.cache
+C:\Users\х0з9ин\Desktop\Example\Examole001\obj\Debug\net6.0\Examole001.dll
+C:\Users\х0з9ин\Desktop\Example\Examole001\obj\Debug\net6.0\refint\Examole001.dll
+C:\Users\х0з9ин\Desktop\Example\Examole001\obj\Debug\net6.0\Examole001.pdb
+C:\Users\х0з9ин\Desktop\Example\Examole001\obj\Debug\net6.0\Examole001.genruntimeconfig.cache
+C:\Users\х0з9ин\Desktop\Example\Examole001\obj\Debug\net6.0\ref\Examole001.dll
